@@ -25,7 +25,7 @@ Once all requirements are met, you can pull the GitHub at the provided link in t
 ## Short Presentation
 link here
 ## Presentation Video
-link here
+[Presentation Video](https://drive.google.com/file/d/1zmNxnbcRVdk4Q6kqiHdKAo_1f1j8i7DN/view)
 ## Demo and Code Video
 [Demo + Code](https://drive.google.com/file/d/1cyzcCcaLL0GQ_hC3kecr-LdLOeFjIwwj/view)
 ## Github Link

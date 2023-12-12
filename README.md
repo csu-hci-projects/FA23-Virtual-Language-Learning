@@ -23,7 +23,7 @@ For our project you will need:
 Once all requirements are met, you can pull the GitHub at the provided link in this document. To run the applicaiton you can load the repository as a new project in Unity. Once successfully loaded, you may either hit the "play button" in Unity to do a quick port to the headset, or do a full build. Both options will automatically launch to the Headset. 
 
 ## Short Presentation
-link here
+[Short Presentation](https://www.tiktok.com/@nehaa1ch/video/7311597404858404139?_r=1&_t=8i7BwbZmrHe)
 ## Presentation Video
 [Presentation Video](https://drive.google.com/file/d/1zmNxnbcRVdk4Q6kqiHdKAo_1f1j8i7DN/view)
 ## Demo and Code Video

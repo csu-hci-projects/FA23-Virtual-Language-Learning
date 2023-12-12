@@ -29,6 +29,6 @@ link here
 ## Demo and Code Video
 [Demo + Code](https://drive.google.com/file/d/1cyzcCcaLL0GQ_hC3kecr-LdLOeFjIwwj/view)
 ## Github Link
-link here
+[GitHub](https://github.com/csu-hci-projects/FA23-Virtual-Language-Learning/tree/main)
 ## Overleaf link
 link here
